@@ -80,7 +80,7 @@ https://github.com/KushalTanna24 k robe xdxd
 
  
 ## 🐍 Snake eating my contributions:
-![Snake animation](https://github.com/sami-sopas/sami-sopas/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/sami-sopas/sami-sopas/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align="center">
 <img align="center" alt="pawa" height="335" style="border-radius:50px;" src="https://64.media.tumblr.com/a571cdfb51989009378c589f8586329f/2c66ef45715527e7-15/s540x810/54ab8f2d972f71aec77ec8941149598db1c66efb.gif">
