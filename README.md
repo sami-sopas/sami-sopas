@@ -80,14 +80,29 @@ https://github.com/KushalTanna24 k robe xdxd
 
  
 ## 🐍 Snake eating my contributions:
+<div align="center">
+  <img src="https://github.com/sami-sopas/sami-sopas/assets/99571985/146a5857-a074-4bc3-a802-a6531e8c5fe6" alt="github-snake-dark" />
+  <!-- 
 ![github-snake-dark](https://github.com/sami-sopas/sami-sopas/assets/99571985/146a5857-a074-4bc3-a802-a6531e8c5fe6)
+-->
+</div>
 
+## 🎸 Spotify Activity:
+<br>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=dragondepapas222&count=6&width=600" alt="Alt text" />
+  <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dragondepapas222&count=5&width=600)-->
+</p>
+
+##
 
 <div align="center">
 <img align="center" alt="pawa" height="335" style="border-radius:50px;" src="https://64.media.tumblr.com/a571cdfb51989009378c589f8586329f/2c66ef45715527e7-15/s540x810/54ab8f2d972f71aec77ec8941149598db1c66efb.gif">
 </div>
 <br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sami&label=Profile%20Views&color=5&icon=0&pretty=true" />
-</a>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sami&label=Profile%20Views&color=5&icon=0&pretty=true" />
+  </a>
+</div>
